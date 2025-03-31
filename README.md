@@ -3,7 +3,16 @@
 
  ## Salary Dashboard  
  This dashboard helps the job seekers to investigate the job opportunitites and the median salaries of data jobs across different regions of the world.  
- Checkout my work here - [Salary_dashboard](Salary_dashboard)  
+ Checkout my work here - [Salary Dashboard](Salary_dashboard)  
  
- ![image](https://github.com/user-attachments/assets/4cff3c4b-22aa-4406-ba65-02ab9ddad528)
+ ![image](https://github.com/user-attachments/assets/4cff3c4b-22aa-4406-ba65-02ab9ddad528)  
+
+ ## Salary Analysis  
+ This Excel-based salary analysis helps you understand how different skills impact salaries in data-related jobs worldwide. It provides insights into the most valuable skills, helping job seekers, analysts, and professionals identify high-paying skills and make informed career decisions.  
+ Checkout the project here - [Salary Analysis](SkillsVsSalary)  
+
+ ![image](https://github.com/user-attachments/assets/c8c6a372-c4b7-4e50-9375-ff201291f9c8)  
+ ![image](https://github.com/user-attachments/assets/f71ad84f-cbff-4276-893f-bd8e191713ed)
+
+
 
