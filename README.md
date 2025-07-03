@@ -1,4 +1,4 @@
-# Excel_Project_DataAnalytics
+# Data Jobs Exploration Projects
  Built using Microsoft Excel, these projects showcase my data analysis and dashboard design skills. Utilizing Pivot Tables, Pivot Charts, Power Query, and Power Pivot, they provide insights into salary trends through interactive visuals and data processing.  
 
  ## Salary Dashboard  
